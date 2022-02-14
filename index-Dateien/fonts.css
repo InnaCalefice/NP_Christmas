@@ -1,0 +1,18 @@
+@font-face {
+      font-family: "TheSaB3";
+       src: url("http://swisscom-cdn.mayoris.com/doc/vuz/i3x/thesab3.ttf");
+       src: local("TheSaB3"),
+            url("http://swisscom-cdn.mayoris.com/doc/yji/wcs/thesab3.eot") format("eot"),
+            url("http://swisscom-cdn.mayoris.com/doc/vwu/x36/thesab3.woff") format("woff"),
+            url("http://swisscom-cdn.mayoris.com/doc/vuz/i3x/thesab3.ttf") format("truetype");
+            mso-font-alt: 'Calibri, Arial';
+    }
+    @font-face {
+      font-family: "TheSaB5";
+       src: url("https://swisscom-cdn.mayoris.com/doc/03a/qxz/thesab5.ttf");
+       src: local("TheSaB3"),
+            url("https://swisscom-cdn.mayoris.com/doc/c2n/flt/thesab5.eot") format("eot"),
+            url("https://swisscom-cdn.mayoris.com/doc/mps/ouv/thesab5.woff") format("woff"),
+            url("https://swisscom-cdn.mayoris.com/doc/03a/qxz/thesab5.ttf") format("truetype");
+            mso-font-alt: 'Calibri, Arial';
+    }
